@@ -9,7 +9,7 @@ Proyek ini berfokus pada deteksi objek dan ekstraksi teks dari gambar kendaraan.
 *   **Tujuan:** Melokalisasi area plat nomor kendaraan (menghasilkan *bounding box*) dan membaca karakter angka/huruf di dalamnya.
 *   **Teknik:** Object Detection, Image Preprocessing (Grayscale, Thresholding, Edge Detection), Optical Character Recognition (OCR).
 
-### 2. Face Classification - Custom Dataset (`/face-classification-custom`)
+### 2. Face Classification - Custom Dataset (`/face-classification-individu`)
 Eksperimen klasifikasi wajah secara *end-to-end* yang melibatkan proses pengumpulan data secara mandiri.
 *   **Tujuan:** Membangun model yang mampu mengklasifikasikan wajah berdasarkan dataset (*custom*) yang dikumpulkan dan dianotasi sendiri.
 *   **Teknik:** Data Gathering, Data Augmentation, Feature Extraction, Image Classification.
